@@ -5,6 +5,9 @@ import { bsTrash, BsBookMarkCheck, BsBookmarkCheckFill, BsBookmarkCheck, BsTrash
 
 const API = "http://localhost:5000";
 
+// npm run server
+
+
 function App() {
 
   const [title, setTitle] = useState("")
